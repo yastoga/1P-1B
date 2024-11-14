@@ -1,14 +1,23 @@
 body{
-    background-color: aqua;
+    background-color: rgb(18, 19, 19);
+    color: aliceblue;
+    text-align: center;
+    margin: 0;
 }
 
-h1{
-    color: blueviolet;
-    text-align: center;
-
+main{
+    background-color: aquamarine;
+    padding: 20px;
+}
+.cabecalho{
+    background-color: blue;
+    margin: 0;
+    padding: 40px;
 }
 a{
     color: brown;
-    text-align: center;
+    padding: 24px;
+    font-size: 24px;
+    text-decoration: none;
 }
 
